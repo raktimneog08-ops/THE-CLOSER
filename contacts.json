@@ -1,0 +1,37 @@
+[
+  {
+    "recipient_name": "Priya Sharma",
+    "recipient_email": "priya@example.com",
+    "company": "Acme AI",
+    "role": "Backend Engineering Intern",
+    "personalization_note": "their recent launch of automated AI agents tools"
+  },
+  {
+    "recipient_name": "John Doe",
+    "recipient_email": "john.doe@example.com",
+    "company": "SaaSFlow",
+    "role": "Backend Python Developer",
+    "personalization_note": "their open-source workflow library integration"
+  },
+  {
+    "recipient_name": "Sarah Connor",
+    "recipient_email": "sconnor@cyberdyne.com",
+    "company": "Cyberdyne Systems",
+    "role": "Robotics Integration Engineer",
+    "personalization_note": "their advanced neural net architecture projects"
+  },
+  {
+    "recipient_name": "Jane Smith",
+    "recipient_email": "jane.smith@cloudscale.com",
+    "company": "CloudScale Inc.",
+    "role": "Junior DevOps Engineer",
+    "personalization_note": "their recent article on automated multi-cloud migration pipelines"
+  },
+  {
+    "recipient_name": "Bruce Wayne",
+    "recipient_email": "bwayne@waynecorp.com",
+    "company": "Wayne Enterprises",
+    "role": "Security Software Engineer",
+    "personalization_note": "their cyberthreat detection and response platform launch"
+  }
+]
